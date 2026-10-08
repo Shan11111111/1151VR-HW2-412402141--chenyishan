@@ -1,6 +1,6 @@
-# 1151VR-HW2-412402141-陳怡珊
+圖片創作版權 : 專案使用之2D圖片為作者本人個人創作之作品，音效採用Plxabay免版權音樂(平台網址:http://pixabay.com/zh/sound-effects/)
 
-專案使用之2D圖片為學生個人創作之作品
+# 1151VR-HW2-412402141-陳怡珊
 <img width="865" height="517" alt="image" src="https://github.com/user-attachments/assets/ac9edbff-e74a-4d55-a349-8700f69237bb" />
 
 <br> 
