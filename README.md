@@ -1,6 +1,6 @@
 # 1151VR-HW2-412402141-陳怡珊
 
-1151VR-HW2-412402141-陳怡珊
+專案使用之2D圖片為學生個人創作之作品
 <img width="865" height="517" alt="image" src="https://github.com/user-attachments/assets/ac9edbff-e74a-4d55-a349-8700f69237bb" />
 
 <br> 
